@@ -9,16 +9,22 @@ const LETTER_KEY = "tasha-birthday-letter";
 
 export const DEFAULT_LETTER = `Tasha,
 
-I still don't have the right words for what it is to know you — only the feeling. It's the late-night voice notes. The way you walk into a room and the air gets warmer. The way you love people like it's the easiest thing in the world.
+Happy birthday to my cute ass homegirl 😭❤️
 
-You are my favorite homegirl. The one I call first. The one who makes ordinary Tuesdays feel like a secret celebration.
+I genuinely don't know how to write these things without sounding corny, but you already know I love having you around. You're funny, you're cute as hell, and somehow you can make the most random conversations feel like a whole event.
 
-May this year be soft where you need rest, bright where you want to shine, and wildly kind to you in all the ways you are kind to everyone else.
+I hope this year treats you good and gives you everything you deserve. Keep being you, keep laughing at dumb shit, and please never lose that energy of yours.
 
-Blow out the candles. Make the wish. I'm already cheering for it.
+Also, I need to address something VERY serious: **STOP USING THAT FUCKING CHIPMUNK VOICE EFFECT ON INSTAGRAM WHEN YOU SEND ME VMs.** 😭 I am begging you. Just talk normally. I wanna hear YOU, not Alvin and the damn Chipmunks.
 
-Always,
-Your homegirl`;
+And stop bullying me too 😭 you know damn well you be doing it for entertainment.
+
+Anyway, happy birthday, pretty girl. I hope you have the best day and an even better year. Stay cute, stay annoying, and stay my homegirl.
+
+Love you, idiot ❤️
+
+— Your favorite victim
+ ARZU`;
 
 function readLetter() {
   if (typeof window === "undefined") return DEFAULT_LETTER;
